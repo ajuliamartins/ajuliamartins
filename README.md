@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou a Júlia Martins Soares
 - 👀 Estou me graduando em Análise e Desenvolvimento de Sistemas no IFRS - Campus Osório
-- 🌱  5º Semestre
+- 🌱  2º Semestre
 - 📫 Entre em contato através do meu e-mail: juliamsoares1@gmail.com
 
 <div align="center">]
